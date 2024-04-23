@@ -4,4 +4,5 @@ The transformation can be represented by aligning two alphabets; the cipher alph
 
 Example:
 Plaintext:  THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG
+
 Ciphertext: QEB NRFZH YOLTK CLU GRJMP LSBO QEB IXWV ALD
